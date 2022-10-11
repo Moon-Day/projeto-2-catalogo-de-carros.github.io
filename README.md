@@ -2,5 +2,5 @@
 # Projeto 5 Mario Jump
 
  <div align="center">
-<img src="https://user-images.githubusercontent.com/97771245/194969613-67243500-9fd7-4fbb-88c4-3ccd5e252ad1.gif" width="100%" background-color="black" />
+<img src="https://user-images.githubusercontent.com/97771245/194973371-bb543719-6ff9-4f55-9774-e187ca7b5d73.gif" width="100%" background-color="black" />
 </div>
