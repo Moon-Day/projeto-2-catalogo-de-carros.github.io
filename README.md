@@ -4,8 +4,8 @@ link  do Projeto: https://moon-day.github.io/projeto-2-catalogo-de-carros.github
 
 @ Neste projeto aprendi a usar o <b>display: grid;</b> e as propriedades <b>grid-template-columns(grade de tamplete e colunas) e grid-gap(lacuna na grade).</b>
 
-   //<b>grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));</b> \\
-   //<b>grid-gap:30px;</b> \\
+//<b>grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));</b> \\
+//<b>grid-gap:30px;</b> \\
 
 @ A propriedade  <b>grid-template-columns(grade de tamplete e colunas)</b> é usada para especificar o tamanho e o numero de colunas da grade. O valor <b>repeat(auto-fill, minmax(270px, 1fr)(repetir  prenchimento automatico minimo e maximo)</b>. repeat: e a função que repete um padrão, no caso estamo repetindo o padrão para definiar as colunas.
 
