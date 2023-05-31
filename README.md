@@ -18,7 +18,7 @@ link  do Projeto: https://moon-day.github.io/projeto-2-catalogo-de-carros.github
  <b>---grid-gap: 30px;(lacuna na grade)---</b>
 Essa parte define o espaçamento entre as celular (itens) da grade. A propriedade grid-gap é usada para especificar a distancia entre as colunas e as linhas. o valor 30px define o espaçamento de 30 pixels entre as celulas da grade.
 
- E tudo isso se repete na section features, tambem usando <b>---grid-template-columns(grade de tamplete e colunas) e ---grid-gap(lacuna na grade).---</b>
+ E tudo isso se repete na section features, tambem usando <b>---display: grid;---</b>, <b>---grid-template-columns(grade de tamplete e colunas) e ---grid-gap(lacuna na grade).---</b>
  <div align="center">
 <img src="https://user-images.githubusercontent.com/97771245/194973371-bb543719-6ff9-4f55-9774-e187ca7b5d73.gif" width="100%" background-color="black" />
 </div>
