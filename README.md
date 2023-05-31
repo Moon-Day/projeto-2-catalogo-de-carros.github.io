@@ -7,7 +7,7 @@ link  do Projeto: https://moon-day.github.io/projeto-2-catalogo-de-carros.github
 <b>grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));</b>.<br>
 <b>grid-gap:30px;</b>.
 
-@ A propriedade  <b>grid-template-columns(grade de tamplete e colunas)</b> é usada para especificar o tamanho e o numero de colunas da grade. O valor <b>repeat(auto-fill, minmax(270px, 1fr)(repetir  prenchimento automatico minimo e maximo)</b>. repeat: e a função que repete um padrão, no caso estamo repetindo o padrão para definiar as colunas.
+@ A propriedade            <b>grid-template-columns(grade de tamplete e colunas)</b>          é usada para especificar o tamanho e o numero de colunas da grade. O valor            <b>repeat(auto-fill, minmax(270px, 1fr)(repetir  prenchimento automatico minimo e maximo)</b>.            repeat: e a função que repete um padrão, no caso estamo repetindo o padrão para definiar as colunas.
 
  auto-fill: é uma palavra-chave que faz com que a grade preencha automaticamente as colunas disponiveis no espaço disponível.
 
